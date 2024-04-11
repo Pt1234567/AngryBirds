@@ -1,6 +1,4 @@
-import webbrowser
-url = "https://kiz10.com/angry-birds/"
-webbrowser.open(url, new=0)
+
 import cv2
 import mediapipe as mp
 import pyautogui
